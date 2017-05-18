@@ -1,0 +1,8 @@
+composer.phar
+/vendor/
+
+# Commit your application's lock file http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file
+# You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
+# composer.lock
+log/twig/36/365ab009353d3d704ee517bb5889b4ad6b4b10454b4ef3f25a0332723121d138.php
+log/twig/62/623df1e73faa381ee89b26baa9c389dd7d45964176d95e6de7c21dd420c29a34.php

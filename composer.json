@@ -1,0 +1,17 @@
+{
+ 	"name": "Qing PHP",
+    "description": "PHP Framework",
+    "type": "Framework",
+    "keywords": [
+        "framework",
+        "qing",
+    ],
+    "require": {
+        "php": ">=5.4.0",
+		
+    },
+
+
+
+
+}
