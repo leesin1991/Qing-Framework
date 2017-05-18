@@ -4,7 +4,7 @@
 	define('APP', HOME.'/app');
 	define('MODULE', 'app');
 	//define('PROJECT', 'qing');
-	define('DEBUG', TRUE);
+	define('DEBUG', FALSE);
 	error_reporting(E_ERROR | E_PARSE );
 	if (DEBUG) {
 		ini_set('display_errors', 'On'); 
